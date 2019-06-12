@@ -2,7 +2,7 @@
 
 This repository contains the code necessary to reproduce the main figures from the manuscript by Warnat-Herresthal et. al 2019. 
 
-You can also run the code in the docker-container https://hub.docker.com/r/schultzelab/aml_classifier, which provides the data and all packages necessary to reproduce the calculations. For resproducing the figures, we provide our main results in the folder `results`. 
+You can use our docker-container https://hub.docker.com/r/schultzelab/aml_classifier, which provides the data and all packages necessary to reproduce the calculations. For reproducing the figures, we provide our main results in the folder `results`. 
 
 The folders contain the following scripts: 
 
